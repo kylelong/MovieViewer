@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-<img src='http://i.imgur.com/JQg56Im.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/ZyGtejt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## License
 
     Copyright [2016] [Kyle Long]
